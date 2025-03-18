@@ -1,0 +1,6 @@
+1234;Juan Perezsolo
+4578;Carlos Moravia
+23341;Mariana Gonzalez
+5043129; Anabel Torres
+6524;Josefa Patiño
+1234;Repetido
