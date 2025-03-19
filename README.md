@@ -1,4 +1,4 @@
-#Music Player Instructions
+# Music Player Instructions
 
 This project was made by me in Python, it was a college project, as you can see in the files, this was made in Spanish. There you can see a txt file named "Guia de Usuario", which is a better explanation about what is this project for.
 
